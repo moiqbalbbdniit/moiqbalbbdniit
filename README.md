@@ -43,7 +43,7 @@
     </td>
     <td width="45%" valign="top">
        <h3>⚡ Recent Activity</h3>
-       <img src="https://github-readme-stats.vercel.app/api?username=moiqbalbbdniit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true" />
+       <img src="https://github-readme-stats.vercel.app/api?username=moiqbalbbdniit&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&hide_title=true" />
     </td>
   </tr>
 </table>
@@ -71,10 +71,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiqbalbbdniit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170px" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiqbalbbdniit&theme=tokyonight&hide_border=true&count_private=true&layout=compact" height="170px" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=moiqbalbbdniit&theme=tokyonight&hide_border=true" height="170px" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=moiqbalbbdniit&theme=tokyonight&hide_border=true" height="170px" alt="Streak Stats" />
       </td>
     </tr>
   </table>
